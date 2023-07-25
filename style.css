@@ -1,0 +1,16 @@
+:root {
+    /* Inline size */
+    --page-max-inline-size: 100%;
+  }
+  
+  * {
+    margin: 0;
+  }
+  
+  body {
+    padding-block: var(--padding-lg);
+  }
+  
+  caption {
+    text-align: start;
+  }
