@@ -21,7 +21,7 @@ title                    : "Always creating something!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "조병규"
-description              : "주니어 웹 개발자"
+description              : "주니어 백엔드 개발자"
 url                      : "https://chobkyu.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
