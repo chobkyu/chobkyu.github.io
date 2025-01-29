@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "조병규"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "주니어 웹 개발자"
+  bio              : "주니어 백엔드 개발자"
   location         : "Seoul"
   email            :
   links:
